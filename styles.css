@@ -1,0 +1,15 @@
+.header {
+  padding: 60px;
+  background-color: #BF260E;
+  text-align: center;
+  color: white;
+  
+}
+
+.buttons button {
+  background-color: #E8624D;
+}
+
+html {
+  background-color: #FFC5BC;
+}
